@@ -1,3 +1,3 @@
 # Projekt_DP
-##Darya Yeusihneyeva
-##Polina Yeusihneyeva
+## Darya Yeusihneyeva
+## Polina Yeusihneyeva
